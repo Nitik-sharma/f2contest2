@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-color: #1E1E1E;
+    color:#FFFFFF;
+    
+}
+h1{
+    margin:40px 40px 40px 40px;
+    font-size: 24px;
+    font-style: oblique;
+    font-family: 'Inter';
+
+font-weight: 300;
+
+line-height: 29px;
+}
+#dropdown{
+border:1px solid white;
+width:120px;
+padding: 10px;
+margin:100px 50px 50px 50px;
+}
+li{
+    
+width: 536px;
+height: 30px;
+justify-content: center;
+left: 58px;
+top: 306px;
+border-radius: 10px;
+border:1px solid white;
+margin-top: 30px;
+margin-left: 30px;
+margin-bottom: 30px;
+}
+
+#button{
+    height: 58px;
+width: 156px;
+margin-left: 40px;
+border-radius: 0px;
+background-color: #FFFFFF;
+color:black;
+}
+
+h3{
+    font-family: Inter;
+font-size: 24px;
+font-weight: 300;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+font-size: 16px;
+font-style:oblique ;
+margin: 50px 50px 50px 50px;
+justify-content: space-evenly;
+}
+
+.enter-element{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    gap:140px;
+}
+input{
+    width:200px;
+    height:30px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: #1E1E1E;
+    color:#FFFFFF;
+}
+#add{
+    height: 58px;
+    width: 156px;
+    margin-left: 40px;
+    border-radius: 0px;
+    background-color: #FFFFFF;
+    color:black;
+}
